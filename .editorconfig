@@ -1,0 +1,11 @@
+# top-most EditorConfig file
+root = true
+
+# all files
+[*]
+indent_style = tab
+indent_size = 2
+
+[*.{js,md}]
+indent_style = space
+indent_size = 2
