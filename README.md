@@ -12,7 +12,7 @@ ZDZN导航是国内最专业的技术导航网,收录了大量的前端,后台,�
 
 ### 2. 添加导航链接
 链接数量必须小于或等于 7 个，链接名称少于 7 个汉字或其等宽字符。
-```js
+```javascript
 const websiteList = {
 	"classify": "Javascript",
 	"link": [
