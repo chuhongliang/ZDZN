@@ -8,10 +8,13 @@ ZDZN导航是国内最专业的技术导航网,收录了大量的前端,后台,�
 ## 添加指南
 
 ### 1. 复制代码库
-通过 Fork 代码库或直接通过 Propose new file 创建文件。
+通过 Fork 代码库或直接通过 [Propose new file](https://github.com/chuhongliang/ZDZN/new/master) 创建文件。
 
 ### 2. 添加导航链接
 链接数量必须小于或等于 7 个，链接名称少于 7 个汉字或其等宽字符。
+
+参考 [website/javascript.js](https://github.com/chuhongliang/ZDZN/website/javascript.js) 的格式添加链接。
+
 ```javascript
 const websiteList = {
   "classify": "Javascript",
@@ -33,4 +36,4 @@ const websiteList = {
 ```
 
 ### 3. 提交代码
-通过 Pull request 或 Propose new file 提交代码。
+通过 Pull request 或 [Propose new file](https://github.com/chuhongliang/ZDZN/new/master) 提交代码。
