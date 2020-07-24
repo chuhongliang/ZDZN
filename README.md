@@ -14,21 +14,21 @@ ZDZN导航是国内最专业的技术导航网,收录了大量的前端,后台,�
 链接数量必须小于或等于 7 个，链接名称少于 7 个汉字或其等宽字符。
 ```javascript
 const websiteList = {
-	"classify": "Javascript",
-	"link": [
-		{
-			"name": "MDN文档",
-			"url": "https://developer.mozilla.org/zh-CN/"
-		},
-		{
-			"name": "ES6教程",
-			"url": "https://es6.ruanyifeng.com/"
-		},
-		{
-			"name": "Vue.js",
-			"url": "https://cn.vuejs.org/"
-		},
-	]
+  "classify": "Javascript",
+  "link": [
+    {
+      "name": "MDN文档",
+      "url": "https://developer.mozilla.org/zh-CN/"
+    },
+    {
+      "name": "ES6教程",
+      "url": "https://es6.ruanyifeng.com/"
+    },
+    {
+      "name": "Vue.js",
+      "url": "https://cn.vuejs.org/"
+    },
+  ]
 }
 ```
 
