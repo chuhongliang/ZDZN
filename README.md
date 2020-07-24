@@ -13,7 +13,7 @@ ZDZN导航是国内最专业的技术导航网,收录了大量的前端,后台,�
 ### 2. 添加导航链接
 链接数量必须小于或等于 7 个，链接名称少于 7 个汉字或其等宽字符。
 
-参考 [website/javascript.js](https://github.com/chuhongliang/ZDZN/website/javascript.js) 的格式添加链接。
+参考 [website/javascript.js](https://github.com/chuhongliang/ZDZN/blob/master/website/javascript.js) 的格式添加链接。
 
 ```javascript
 const websiteList = {
@@ -36,4 +36,4 @@ const websiteList = {
 ```
 
 ### 3. 提交代码
-通过 Pull request 或 [Propose new file](https://github.com/chuhongliang/ZDZN/new/master) 提交代码。
+通过 Pull request 或 [Propose new file](https://github.com/chuhongliang/ZDZN/new/master) 提交代码。路径 /website/分类名称.js。
